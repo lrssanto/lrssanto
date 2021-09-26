@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**lrssanto/lrssanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+   
+  </head>  
+  
+ <body>
+  <h1>Olá, bem vindo ao meu perfil</h1>
+  <h4>Lauana Ribeiro Santo </h4>
+  <br>
+   <div>
+  <ul>
+    <li>  🧾 Atualmente trabalho com suporte ao cliente </li>
+    <li>  🔎 Estudando Ciência da Computação </li>
+    <li>  💻 Técnica em Informática </li>
+  </ul>
+    </div>
+   
+   <div>
+     <a href="https://instagram.com/lauana_ribeiro?utm_medium=copy_link"> 📷 Instagram <a/>
+   </div>
+ </body>
+</html>
