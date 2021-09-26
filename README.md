@@ -18,7 +18,7 @@
     </div>
    
    <div>
-     <a href="https://instagram.com/lauana_ribeiro?utm_medium=copy_link"> 📷 Instagram <a/>
+     
    </div>
  </body>
 </html>
